@@ -5,7 +5,7 @@ Client orders are stored on a .txt file on web server of the course organizer.
 
 The system is consisted of several projects:
 
-  EducationServices - a C#.NET Library with following content:
+  1) EducationServices - a C#.NET Library with following content:
   
    EducationServices - an enum type, which defines the course types: ONLINE, CLASS_ROOM, INTENSIVE, ON_DEMAND, HIGH_LEVEL
   
