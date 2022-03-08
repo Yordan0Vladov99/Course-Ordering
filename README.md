@@ -31,6 +31,10 @@ The Course class contains set and get Properties for the private attributes, con
   - An 'Order' button, which submits the order
 
   - A 'Cancel' button, which sets the number of students to 0
+
+  OrderServiceEventArgs - C#.NET class used for representing the Order event, which is of type EventHandler<OrderServiceEventArgs>.
+  
+  OrderCourse - C#.NET class that defines the Order event and created when the 'Order' button is pressed
      
 
   
