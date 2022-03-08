@@ -1,0 +1,3 @@
+C:\Users\йордан\source\repos\Final_62320\Final_62320\obj\Debug\Final_62320.csproj.AssemblyReference.cache
+C:\Users\йордан\source\repos\Final_62320\Final_62320\obj\Debug\Final_62320.csproj.SuggestedBindingRedirects.cache
+C:\Users\йордан\source\repos\Final_62320\Final_62320\obj\Debug\Final_62320.csproj.CoreCompileInputs.cache

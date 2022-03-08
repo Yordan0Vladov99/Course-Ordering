@@ -1,0 +1,14 @@
+C:\Users\йордан\source\repos\Final_62320\EducationServices\bin\Debug\net48\EducationServices.dll
+C:\Users\йордан\source\repos\Final_62320\EducationServices\bin\Debug\net48\EducationServices.pdb
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices.csproj.AssemblyReference.cache
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\OrderCourse.g.cs
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices_MarkupCompile.cache
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices_MarkupCompile.lref
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\OrderCourse.baml
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices.g.resources
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices.AssemblyInfoInputs.cache
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices.AssemblyInfo.cs
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices.csproj.CoreCompileInputs.cache
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices.dll
+C:\Users\йордан\source\repos\Final_62320\EducationServices\obj\Debug\net48\EducationServices.pdb

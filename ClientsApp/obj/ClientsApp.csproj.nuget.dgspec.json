@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\йордан\\source\\repos\\Final_62320\\ClientsApp\\ClientsApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\йордан\\source\\repos\\Final_62320\\ClientsApp\\ClientsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\йордан\\source\\repos\\Final_62320\\ClientsApp\\ClientsApp.csproj",
+        "projectName": "ClientsApp",
+        "projectPath": "C:\\Users\\йордан\\source\\repos\\Final_62320\\ClientsApp\\ClientsApp.csproj",
+        "packagesPath": "C:\\Users\\йордан\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\йордан\\source\\repos\\Final_62320\\ClientsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\йордан\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\йордан\\source\\repos\\Final_62320\\EducationServices\\EducationServices.csproj": {
+                "projectPath": "C:\\Users\\йордан\\source\\repos\\Final_62320\\EducationServices\\EducationServices.csproj"
+              },
+              "C:\\Users\\йордан\\source\\repos\\Final_62320\\SOAPService\\SOAPService.csproj": {
+                "projectPath": "C:\\Users\\йордан\\source\\repos\\Final_62320\\SOAPService\\SOAPService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\йордан\\source\\repos\\Final_62320\\EducationServices\\EducationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\йордан\\source\\repos\\Final_62320\\EducationServices\\EducationServices.csproj",
+        "projectName": "EducationServices",
+        "projectPath": "C:\\Users\\йордан\\source\\repos\\Final_62320\\EducationServices\\EducationServices.csproj",
+        "packagesPath": "C:\\Users\\йордан\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\йордан\\source\\repos\\Final_62320\\EducationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\йордан\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\йордан\\source\\repos\\Final_62320\\SOAPService\\SOAPService.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\йордан\\source\\repos\\Final_62320\\SOAPService\\SOAPService.csproj",
+        "projectName": "SOAPService",
+        "projectPath": "C:\\Users\\йордан\\source\\repos\\Final_62320\\SOAPService\\SOAPService.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\йордан\\source\\repos\\Final_62320\\EducationServices\\EducationServices.csproj": {
+                "projectPath": "C:\\Users\\йордан\\source\\repos\\Final_62320\\EducationServices\\EducationServices.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

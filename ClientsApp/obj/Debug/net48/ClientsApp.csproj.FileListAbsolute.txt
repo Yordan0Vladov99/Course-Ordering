@@ -1,0 +1,7 @@
+C:\Users\йордан\source\repos\Final_62320\ClientsApp\obj\Debug\net48\ClientsApp.csproj.AssemblyReference.cache
+C:\Users\йордан\source\repos\Final_62320\ClientsApp\obj\Debug\net48\ClientsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\йордан\source\repos\Final_62320\ClientsApp\obj\Debug\net48\ClientsApp.g.cs
+C:\Users\йордан\source\repos\Final_62320\ClientsApp\obj\Debug\net48\MainWindow.g.cs
+C:\Users\йордан\source\repos\Final_62320\ClientsApp\obj\Debug\net48\App.g.cs
+C:\Users\йордан\source\repos\Final_62320\ClientsApp\obj\Debug\net48\ClientsApp_MarkupCompile.cache
+C:\Users\йордан\source\repos\Final_62320\ClientsApp\obj\Debug\net48\ClientsApp_MarkupCompile.lref

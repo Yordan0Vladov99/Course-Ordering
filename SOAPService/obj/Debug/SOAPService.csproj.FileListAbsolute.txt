@@ -1,0 +1,10 @@
+C:\Users\йордан\source\repos\Final_62320\SOAPService\bin\SOAPService.dll.config
+C:\Users\йордан\source\repos\Final_62320\SOAPService\bin\SOAPService.dll
+C:\Users\йордан\source\repos\Final_62320\SOAPService\bin\SOAPService.pdb
+C:\Users\йордан\source\repos\Final_62320\SOAPService\bin\EducationServices.dll
+C:\Users\йордан\source\repos\Final_62320\SOAPService\bin\EducationServices.pdb
+C:\Users\йордан\source\repos\Final_62320\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+C:\Users\йордан\source\repos\Final_62320\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+C:\Users\йордан\source\repos\Final_62320\SOAPService\obj\Debug\SOAPService.csproj.CopyComplete
+C:\Users\йордан\source\repos\Final_62320\SOAPService\obj\Debug\SOAPService.dll
+C:\Users\йордан\source\repos\Final_62320\SOAPService\obj\Debug\SOAPService.pdb
