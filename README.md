@@ -18,4 +18,19 @@ Each course contains the following attributes:
    
    - number of students, represented by the int numOfStudents
   
-The class Course contains set and get Properties for the private attributes, constructors (default, parameterized and copy) and redefined ToString() methhod
+The Course class contains set and get Properties for the private attributes, constructors (default, parameterized and copy) and redefined ToString() methhod.
+
+   OrderCourse - A WPF UserControl, which represents the user interface and contains the following elements:
+   
+   - A 'Course Title' label and the ComboBox cboTitles, which lets the user choose the course title by selecting given titles from a dropdown menu. The contents of the combo box are initialized by calling an order service.
+     
+   - A 'Course Type' label and the ComboBox cboTypes, which lets the user choose the course type by selecting given titles from a dropdown menu. The contents of the combo box are initialized to the values of ServiceType
+
+  - A 'Number of students' label and the TextFiled txtQty, where the user can specify the number of participants in the course (by default 0)
+  
+  - An 'Order' button, which submits the order
+
+  - A 'Cancel' button, which sets the number of students to 0
+     
+
+  
