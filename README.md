@@ -6,6 +6,7 @@ Client orders are stored on a .txt file on web server of the course organizer.
 The system is consisted of several projects:
 
   EducationServices - a C#.NET Library with following content:
+  
    EducationServices - an enum type, which defines the course types: ONLINE, CLASS_ROOM, INTENSIVE, ON_DEMAND, HIGH_LEVEL
   
    Course - a C#.NET class that represents a given course. Each course has its own unique ID, represented as a string which starts with the course number, followed by "-" and the current year. The class also contains a public static constant MAX_NUMBER_IN_COURSE, which defines the maximum number of students that can participate in a course, by default 10. 
