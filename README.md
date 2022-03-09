@@ -49,6 +49,9 @@ The Course class contains set and get Properties for the private attributes, con
   OrderService implements the IOrderService interface, where:
    - GetCourses() returns the courses attribute in a thread-safe manner
    - GetTitles() returns the titles attribute in a thread-safe manner
+   - Write2File(string sender, Course course) logs and given course and its sender to a text file. If the course's participants exceed the predefined limit, new courses are generated and logged to accomodate the excess students
+  
+  
   
  
  
