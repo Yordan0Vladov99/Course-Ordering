@@ -36,6 +36,23 @@ The Course class contains set and get Properties for the private attributes, con
   OrderServiceEventArgs - C#.NET class used for representing the Order event, which is of type EventHandler<OrderServiceEventArgs>.
   
   OrderCourse - C#.NET class that defines the Order event and created when the 'Order' button is pressed
+  
+  2) SOAPService - a WCF project, which defines a SOAP web service. This service implements the IOrderService interface whic has the following methods:
+  - GetCourses, which returns an array of Course objects
+  - GetTitles, which returns a string array
+  - Write2File, which receives writes the sender and the course to a text file
+  
+  The OrderService class implements the IOrderService interface, which contains the following attributes:
+   - courses (Dictionary<string, Course>) - a table where which contains key-value pairs of course ids and their corresponding courses
+   - titles (List<string>) - a list that contains the titles of the available courses
+  
+  OrderService implements the IOrderService interface, where:
+   - GetCourses() returns the courses attribute in a thread-safe manner
+   - GetTitles() returns the titles attribute in a thread-safe manner
+  
+ 
+ 
+    
      
 
   
