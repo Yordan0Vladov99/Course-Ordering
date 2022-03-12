@@ -53,9 +53,16 @@ The Course class contains set and get Properties for the private attributes, con
   
   3) ClientsApp - a WPF application that the client uses to make orders. The project uses the OrderCourse user control and the OrderService service.
   
+  User Interfaces:
   
   ![2022-03-12_15-03-1647091785](https://user-images.githubusercontent.com/43996329/158019881-3a22f540-c35e-4e7a-87dd-7d2cb6c5cbb9.jpg)
 
+
+  Log file:
+  
+  ![crop-1](https://user-images.githubusercontent.com/43996329/158020325-8b9e04ea-c137-48d7-b3de-5aa2b240007c.png)
+
+  
  
  
     
