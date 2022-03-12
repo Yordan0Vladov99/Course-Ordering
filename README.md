@@ -49,9 +49,10 @@ The Course class contains set and get Properties for the private attributes, con
   OrderService implements the IOrderService interface, where:
    - GetCourses() returns the courses attribute in a thread-safe manner
    - GetTitles() returns the titles attribute in a thread-safe manner
-   - Write2File(string sender, Course course) logs and given course and its sender to a text file. If the course's participants exceed the predefined limit, new courses are generated and logged to accomodate the excess students
+   - Write2File(string sender, Course course) logs and given course and its sender to a text file. If the course's participants exceed the predefined limit, nthew courses are generated and logged to accomodate the excess students
   
-  3) ClientsApp
+  3) ClientsApp - a WPF application that the client uses to make orders. The project uses the OrderCourse user control and the OrderService service.
+  
   
   
  
