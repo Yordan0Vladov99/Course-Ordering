@@ -59,8 +59,9 @@ The Course class contains set and get Properties for the private attributes, con
 
 
   Log file:
-  
-  ![crop-1](https://user-images.githubusercontent.com/43996329/158020325-8b9e04ea-c137-48d7-b3de-5aa2b240007c.png)
+ 
+  ![image](https://user-images.githubusercontent.com/43996329/158057963-fce7b1f0-525f-4faa-8672-66c8a7a8b836.png)
+
 
   
  
